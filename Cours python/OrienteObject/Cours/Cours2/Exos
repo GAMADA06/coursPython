@@ -1,0 +1,41 @@
+"""
+Exo1 : Classe de base et héritage
+"""
+
+    1.  Créez une classe Animal avec une méthode speak() qui retourne "I am an animal.".
+    2.  Créez deux sous-classes : Dog et Cat, qui redéfinissent la méthode speak() avec des messages spécifiques.
+    3.  Testez les classes.
+
+
+"""
+Exo2 : Gestion d'une école
+"""
+
+    1.  Créez une classe School qui contient une liste d'élèves (Student).
+    2.  Ajoutez une méthode pour inscrire un élève et une méthode pour afficher la liste des élèves.
+    3.  Testez avec plusieurs élèves.
+
+
+"""
+Exo3 : Formes géométriques (héritage)
+"""
+
+    1.  Reprenez l'exemple des formes (Shape, Circle, Rectangle) et ajoutez une classe Triangle avec une méthode pour calculer l'aire.
+    2.  Créez plusieurs formes et affichez leurs aires.
+
+
+"""
+Ex04 : Héritage avec véhicules
+"""
+
+    1.  Créez une classe Vehicle avec une méthode move().
+    2.  Créez des sous-classes Car, Boat et Plane, chacune redéfinissant la méthode move().
+    3.  Ajoutez une liste mixte de véhicules et appelez move() pour chaque.
+
+
+"""
+Ex05 : Gestion de bibliothèque avec catégories
+"""
+
+    1.  Modifiez la classe Library pour inclure une catégorie (par exemple, "fiction", "science").
+    2.  Ajoutez une méthode pour afficher les livres d'une catégorie donnée.

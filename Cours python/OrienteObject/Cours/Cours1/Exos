@@ -1,0 +1,42 @@
+"""
+Exo1 : Une Personne
+"""
+
+    1.  Créez une classe Person avec les attributs name et age.
+    2.  Ajoutez une méthode introduce() qui affiche : "Je m'appelle [nom] et j'ai [âge] ans."
+    3.  Instanciez deux personnes et appelez leur méthode.
+
+
+"""
+Exo2 : Compte Bancaire
+"""
+
+    1.  Créez une classe BankAccount avec owner (propriétaire) et balance (solde).
+    2.  Ajoutez des méthodes deposit(amount) et withdraw(amount).
+    3.  Testez les opérations avec différents montants.
+
+
+"""
+Exo3 : Étudiant
+"""
+
+    Créez une classe Student avec les attributs name et grades (une liste de notes).
+    Ajoutez une méthode average() qui calcule la moyenne des notes.
+    Créez plusieurs étudiants et affichez leur moyenne.
+
+
+"""
+Ex04 : Calculatrice simple
+"""
+
+    1.  Créez une classe Calculator avec des méthodes add, subtract, multiply et divide.
+    2.  Testez chaque méthode avec des exemples simples.
+
+
+"""
+Ex05 : Produit
+"""
+
+    1.  Créez une classe Product avec les attributs name, price et stock.
+    2.  Ajoutez une méthode buy(quantity) pour diminuer le stock et calculer le coût total.
+    3.  Testez l'achat de différents produits.

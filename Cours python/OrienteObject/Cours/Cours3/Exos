@@ -1,0 +1,42 @@
+"""
+Exo1 : Zoo avec polymorphisme
+"""
+
+    1.  Créez une classe Animal avec une méthode abstraite speak().
+    2.  Créez des sous-classes Lion, Parrot, et Snake qui implémentent la méthode speak().
+    3.  Ajoutez tous les animaux dans une liste et appelez speak() pour chacun.
+
+
+"""
+Exo2 : Gestion d'une boutique en ligne
+"""
+
+    1.  Reprenez la classe Product.
+    2.  Créez une classe OnlineStore pour gérer une liste de produits avec des méthodes add_product et view_products.
+    3.  Ajoutez une méthode pour trier les produits par prix.
+
+
+"""
+Exo3 : Polymorphisme avec des outils
+"""
+
+    1.  Créez une classe Tool avec une méthode abstraite use().
+    2.  Implémentez des sous-classes comme Hammer, Screwdriver, et Wrench, chacune avec un comportement spécifique pour use().
+
+
+"""
+Ex04 : Système de transport
+"""
+
+    1.  Créez une classe Transport avec des attributs communs (vitesse, capacité).
+    2.  Implémentez des sous-classes Bus, Train, et Bicycle.
+    3.  Ajoutez une méthode pour calculer le temps de trajet pour une distance donnée.
+
+
+"""
+Ex05 : Gestion avancée d'un jeu
+"""
+    Astuce : utilisez les fonctions open(), eval()
+
+    1.  Reprenez la classe Game et ajoutez une méthode pour sauvegarder l'état du jeu (par exemple, les scores actuels des joueurs).
+    2.  Implémentez une fonction pour charger un état sauvegardé.
